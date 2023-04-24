@@ -2,8 +2,8 @@
 
 アイアンモン・チャレンジは、[Iateyourpie](https://www.twitch.tv/iateyourpie)によって作成された[Pokémon Randomizer](https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases)のチャレンジランです。
 ランダマイザーを楽しく、挑戦的に体験できるように設計されており、
-他のチャレンジに付随する野生のポケモンの研削を無くしています。
-もともとはファイアレッド/リーフグリーン用に作られましたが、他のゲームにも適用・調整することができます。
+野生のポケモン存在するけど経験値のために倒すことが禁止されてる。
+もともとはファイヤーレッド/リーフグリーン用に作られましたが、他のゲームにも適用・調整することができます。
 もしアイアンモンについてもっと知りたいと思ったら、ぜひ[Discordコミュニティ](https://discord.gg/jFPYsZAhjX)に参加してください！
 
 
